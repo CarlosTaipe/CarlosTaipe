@@ -6,7 +6,7 @@
 
 ## **Languages**
 <!--
-![Python](https://img.shields.io/badge/-Python-%23282a36?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 -->
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black)
