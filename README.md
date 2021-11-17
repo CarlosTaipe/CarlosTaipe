@@ -1,6 +1,6 @@
 ## **👋 Hey, I am Carlos David Taipe Amaguaya**
 
-* I am a Engineering’s degree in Informatic and Computing Systems living in Quito-Ecuador 🇪🇨, I am a Android Developer - Kotlin 💙, as a web developer I use Vue.Js and TypeScript
+* I am a Bachelor’s degree in Computer Science and Computing Systems living in Quito-Ecuador 🇪🇨, I am a Android Developer - Kotlin 💙, as a web developer I use Vue.Js, JavaScript and TypeScript
 
 * I'm Interested in cybersecurity and Ethical Hacking 🕵️‍♂️, in my free time search a notice or post on security to keep myself informed in this area and to learn about the different methods used by cybercriminals to obtain information
 
