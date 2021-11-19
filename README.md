@@ -1,3 +1,5 @@
+<img align="center" alt="GIF" src="Banner1.jpeg" />
+
 ## **👋 Hey, I am Carlos David Taipe Amaguaya**
 
 * I am a Bachelor’s degree in Computer Science and Computing Systems living in Quito-Ecuador 🇪🇨, I am a Android Developer - Kotlin 💙, as a web developer I use Vue.Js, JavaScript and TypeScript
