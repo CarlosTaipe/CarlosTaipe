@@ -1,11 +1,10 @@
-<img align="center" alt="GIF" src="Banner1.jpeg" />
+<img align="center" alt="banner" src="baner_two.jpg" />
 
 ## **👋 Hey, I am Carlos David Taipe Amaguaya**
 
 * I am a Bachelor’s degree in Computer Science and Computing Systems living in Quito-Ecuador 🇪🇨, I am a Android Developer - Kotlin 💙, as a web developer I use Vue.Js, JavaScript and TypeScript
 
-* I'm Interested in cybersecurity and Ethical Hacking 🕵️‍♂️, in my free time search a notice or post on security to keep myself informed in this area and to learn about the different methods used by cybercriminals to obtain information
-
+* I'm Interested in cybersecurity and Ethical Hacking 🕵️‍♂️, in my free time search a notice or post on security to keep myself informed.
 ## **Languages**
 <!--
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
