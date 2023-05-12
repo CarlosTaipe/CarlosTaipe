@@ -2,7 +2,7 @@
 
 <img align="center" alt="banner" src="baner_two.jpg" />
 
-I am a Bachelor’s degree in Computer Science and Computing Systems living in Quito-Ecuador 🇪🇨. Currently, I'm working at SoyMomo Safe technology for children 💜 as Mobile Developer.
+I am a Bachelor’s degree in Computer Science and Computing Systems living in Quito-Ecuador 🇪🇨. Currently, I'm a Mobile Developer.
 
 * I am a Android Developer <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="17" height="17"/> - Kotlin <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="15" height="15"/> , as a web developer I use Vue.Js <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="17" height="17"/>, JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="17" height="17"/> and TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="17" height="17"/> 
 
