@@ -1,6 +1,7 @@
-## **👋 Hey, My name is Carlos David Taipe **
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&height=300&color=5177c0&text=Carlos%20David%20Taipe&fontColor=ffffff&fontSize=50&fontAlign=72&fontAlignY=40&desc=Android%20%20and%20Web%20Developer&descAlign=82&descAlignY=55)
+<!-- ## **👋 Hey, My name is Carlos David Taipe **-->
 
-<img align="center" alt="banner" src="baner_two.jpg" />
+<!--<img align="center" alt="banner" src="baner_two.jpg"/>-->
 
 I am a Bachelor’s degree in Computer Science and Computing Systems living in Quito-Ecuador 🇪🇨.
 
