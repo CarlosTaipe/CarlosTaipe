@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&height=300&color=5177c0&text=Carlos%20David%20Taipe&fontColor=ffffff&fontSize=50&fontAlign=72&fontAlignY=40&desc=Android%20%20and%20Web%20Developer&descAlign=82&descAlignY=55) 
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&height=300&color=0:48c6ef,100:6f86d6&text=Carlos%20David%20Taipe&fontColor=ffffff&fontSize=50&fontAlign=72&fontAlignY=40&desc=Android%20%20and%20Web%20Developer&descAlign=82&descAlignY=55) 
  <!-- ## **👋 Hey, My name is Carlos David Taipe **
 
 <img align="center" alt="banner" src="baner_two.jpg"/>-->
