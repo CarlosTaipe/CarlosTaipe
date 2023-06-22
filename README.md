@@ -5,7 +5,8 @@
 
 Hi there, I'm a Bachelor’s degree in Computer Science and Computing Systems, I'm living in Quito-Ecuador 🇪🇨.
 
-* I am a <b> Android Developer </b> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="17" height="17"/> - Kotlin <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="15" height="15"/> , as a web developer I use Vue.Js <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="17" height="17"/>, JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="17" height="17"/> and TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="17" height="17"/> 
+* <b> Android Developer </b> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="17" height="17"/> - Kotlin <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="15" height="15"/>
+* <b> Web developer </b> <img src="https://www.vectorlogo.zone/logos/geonames/geonames-icon.svg" alt="web" width="18" height="20" /> - Vue.Js <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="17" height="17"/>, JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="17" height="17"/> and TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="17" height="17"/> 
 
 I'm Interested in cybersecurity and Ethical Hacking 🕵️‍♂️, in my free time search a notice or post on security to keep myself informed.
 
