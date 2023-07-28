@@ -10,7 +10,7 @@ Hi there, I'm a Bachelor’s degree in Computer Science and Computing Systems, I
 
 I'm Interested in cybersecurity and Ethical Hacking 🕵️‍♂️, in my free time search a notice or post on security to keep myself informed.
 
-## **Languages and Tools**
+## 🔧 **Languages and Tools**
 <!--
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 -->
@@ -28,5 +28,5 @@ I'm Interested in cybersecurity and Ethical Hacking 🕵️‍♂️, in my free
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 
-## Find me at
+## 🔎 **Find me at**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CarlosTaipe9025)
